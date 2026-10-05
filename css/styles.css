@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+p {
+    color: #19a80c;
+    font-size: 35px;
+    line-height: 1.5;
+    font-family: "Brush Script MT", "Brush", bold;
+}
+
+h1 {
+    color: #0a4e2c;
+    font-size: 60px;
+    line-height: 0.7;
+    font-family: "Segoe UI", sans-serif;
+}
+
+h2 {
+    color: #571b09;
+    font-size: 40px;
+    line-height: 0.7;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.new-background {
+    background-color: #0eaa35;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#new-borders {
+    border: 4px outset #aa198b;
+}
+
+.container-style {
+    margin: 50px;
+    padding: 4px;
+    background-color: #072005;
+    border: 5px dotted #0eaa35;
+}
